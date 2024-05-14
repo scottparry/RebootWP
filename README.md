@@ -1,8 +1,12 @@
 # RebootWP WordPress Block Theme
 Tags: blog, portfolio, grid-layout, block-patterns, block-styles, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, full-width-template, threaded-comments, translation-ready, wide-blocks
+
 Tested up to: 6.5
+
 Requires PHP: 7.3
+
 Version: 1.0.2
+
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,21 +29,18 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 **Copyright**
 
 RebootWP Theme, (C) 2023 Scott Parry
+
 RebootWP is distributed under the terms of the GNU GPL.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 Images: 
 dark-logo.webp, light-logo.webp, hero.webp, block-editor-hero.webp - created by Scott Parry.
 
 Fonts:
+
 Mona font SIL Open Font License 1.1: https://github.com/github/mona-sans/blob/main/LICENSE
+
 Inter font SIL Open Font License 1.1: https://github.com/rsms/inter/blob/master/LICENSE.txt
