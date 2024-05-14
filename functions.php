@@ -72,6 +72,10 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 	        'core/cover' => array(
 		        'rebootwp-blur-image' => esc_html__( 'Blur', 'rebootwp' ),
 			),
+			/* core/group */
+	        'core/group' => array(
+				'rebootwp-group-box-shadow' => esc_html__( 'Box Shadow', 'rebootwp' ),
+			),
 	        /* core/image */
 	        'core/image' => array(
 		        'rebootwp-circle-image' => esc_html__( 'Circle', 'rebootwp' ),
