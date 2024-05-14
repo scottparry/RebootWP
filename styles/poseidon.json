@@ -1,0 +1,105 @@
+{
+    "version": 2,
+    "title": "Poseidon",
+    "settings": {
+        "color": {
+			"palette": [
+				{
+					"color": "#012030",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#45C4B0",
+					"name": "Primary Accent",
+					"slug": "primary-accent"
+				},
+				{
+					"color": "#13678A",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#9AEBA3",
+					"name": "Secondary Accent",
+					"slug": "secondary-accent"
+				},
+                {
+					"color": "#1d293c",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#DAFDBA",
+					"name": "Tertiary Accent",
+					"slug": "tertiary-accent"
+				},
+                {
+					"color": "#000000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#ffffff",
+					"name": "White",
+					"slug": "white"
+                },
+                {
+					"color": "#f6f7fa",
+					"name": "Light Grey",
+					"slug": "light-grey"
+				},
+                {
+					"color": "#aaaaaa",
+					"name": "Medium Grey",
+					"slug": "medium-grey"
+				},
+                {
+					"color": "#888888",
+					"name": "Dark Grey",
+					"slug": "dark-grey"
+				},
+                {
+					"color": "rgba(255,255,255,0.75)",
+					"name": "75% White Opaque",
+					"slug": "seventyfiveopaquewhite"
+				},
+                {
+					"color": "rgba(255,255,255,0.5)",
+					"name": "50% White Opaque",
+					"slug": "fiftyopaquewhite"
+				},
+                {
+					"color": "rgba(255,255,255,0.25)",
+					"name": "25% White Opaque",
+					"slug": "twentyfiveopaquewhite"
+				},
+                {
+					"color": "rgba(255,255,255,0.10)",
+					"name": "10% White Opaque",
+					"slug": "tenopaquewhite"
+				},
+                {
+					"color": "rgba(0,0,0,0.75)",
+					"name": "75% Black Opaque",
+					"slug": "seventyfiveopaqueblack"
+				},
+                {
+					"color": "rgba(0,0,0,0.5)",
+					"name": "50% Black Opaque",
+					"slug": "fiftyopaqueblack"
+				},
+                {
+					"color": "rgba(0,0,0,0.25)",
+					"name": "25% Black Opaque",
+					"slug": "twentyfiveopaqueblack"
+				},
+                {
+					"color": "rgba(0,0,0,0.10)",
+					"name": "10% Black Opaque",
+					"slug": "tenopaqueblack"
+				}
+			]
+        }
+    }
+}

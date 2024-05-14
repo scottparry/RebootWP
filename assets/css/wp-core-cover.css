@@ -1,0 +1,11 @@
+.is-style-rebootwp-blur-image {
+	overflow: hidden;
+}
+
+.is-style-rebootwp-blur-image > .wp-block-cover__image-background {
+	transform: scale(2);
+}
+
+.is-style-rebootwp-blur-image > .wp-block-cover__image-background {
+	filter: blur(25px);
+}
