@@ -15,6 +15,13 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 **1.0.0 - 14/05/24**
 * Initial release
 
+**1.0.1 - 14/05/24**
+* Fix some typos
+
+**1.0.2 - 14/05/24**
+* Improve Template consistency.
+* Add box shadow style to core/group
+
 **Copyright**
 
 RebootWP Theme, (C) 2023 Scott Parry
