@@ -14,21 +14,23 @@
 
 ### Description
 
-Design without ever leaving your browser with the power of RebootWP & WordPress Site Editor. Customise every detail in real time — no coding required. RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
+Design without ever leaving your browser with the power of RebootWP & WordPress Site Editor. Customise every detail in real time — no coding required.  
+
+RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
 
 ---
 
 ### Changelog
 
-**1.0.0 - 14/05/24**
-- Initial release
+**1.0.2 - 14/05/24**
+- Improve Template consistency.
+- Add box shadow style to core/group
 
 **1.0.1 - 14/05/24**
 - Fix some typos
 
-**1.0.2 - 14/05/24**
-- Improve Template consistency.
-- Add box shadow style to core/group
+**1.0.0 - 14/05/24**
+- Initial release
 
 ---
 
