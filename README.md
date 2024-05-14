@@ -8,6 +8,7 @@
 **Version:** 1.0.2
 
 **License:** GNU General Public License v3 or later
+
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
