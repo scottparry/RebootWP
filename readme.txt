@@ -2,7 +2,7 @@
 Tags: blog, portfolio, grid-layout, block-patterns, block-styles, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, full-width-template, threaded-comments, translation-ready, wide-blocks
 Tested up to: 6.5
 Requires PHP: 7.3
-Version: 1.0.0
+Version: 1.0.2
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
