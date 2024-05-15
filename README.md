@@ -22,6 +22,12 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 
 ### Changelog
 
+**1.0.5 - 15/05/24**
+- Add read more link to posts grid pattern
+- Change core/read-more styling
+- Make template structure more semantic
+- Make content links more accessible
+
 **1.0.4 - 15/05/24**
 - Change Author Bio card to display nothing if not set
 
