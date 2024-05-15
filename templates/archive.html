@@ -4,9 +4,10 @@
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"820px"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:query {"queryId":16,"query":{"perPage":9,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"layout":{"type":"constrained","contentSize":"840px"}} -->
-<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"tagName":"main","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained","contentSize":"820px"}} -->
+<main class="wp-block-group" style="padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:query {"query":{"perPage":9,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"tagName":"main","layout":{"type":"constrained","contentSize":"840px"}} -->
+<main class="wp-block-query"><!-- wp:group {"tagName":"article","layout":{"type":"constrained"}} -->
+<article class="wp-block-group"><!-- wp:post-template -->
 <!-- wp:post-featured-image /-->
 
 <!-- wp:post-date {"isLink":true,"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"x-small"} /-->
@@ -14,7 +15,8 @@
 <!-- wp:post-title {"isLink":true,"fontSize":"x-large-stretch"} /-->
 
 <!-- wp:post-excerpt {"style":{"typography":{"lineHeight":1.6}},"fontSize":"large-stretch"} /-->
-<!-- /wp:post-template -->
+<!-- /wp:post-template --></article>
+<!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:query-no-results -->
@@ -32,8 +34,8 @@
 
 <!-- wp:query-pagination-next /-->
 <!-- /wp:query-pagination --></div>
-<!-- /wp:group --></div>
-<!-- /wp:query --></div>
+<!-- /wp:group --></main>
+<!-- /wp:query --></main>
 <!-- /wp:group -->
 
 <!-- wp:spacer {"height":"50px"} -->
