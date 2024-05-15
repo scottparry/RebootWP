@@ -24,6 +24,7 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 
 **1.0.3 - 15/05/24**
 - Remove demo content from header & footer
+- Update theme name in footer
 
 **1.0.2 - 14/05/24**
 - Improve Template consistency
