@@ -105,7 +105,11 @@ a,
 a:focus,
 a:hover {
     transition: 150ms linear all; /* add some smoothness to hovers */
-	text-decoration: none !important; /* underlines, eww */
+    text-decoration: none !important;
+}
+
+.entry-content p > a {
+	text-decoration: underline !important;
 }
 
 /* Text */
