@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.0.4  
+**Version:** 1.0.5  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
