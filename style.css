@@ -316,15 +316,6 @@ textarea#comment {
 	padding: 3px 6px;
 }
 
-/* Override defaults */
-a.wp-block-read-more {
-    border-radius: 5px;
-}
-
-a:hover.wp-block-read-more {
-    background-color: var(--wp--preset--color--primary-accent) !important;
-}
-
 /* Helpers */
 a.more-link {
 	display: block;
