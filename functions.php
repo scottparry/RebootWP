@@ -88,6 +88,10 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			'core/paragraph' => array(
 		        'rebootwp-paragraph-gradient' => esc_html__( 'Gradient', 'rebootwp' ),
 			),
+			/* core/site-title */
+			'core/site-title' => array(
+		        'rebootwp-site-title-gradient' => esc_html__( 'Gradient', 'rebootwp' ),
+			),
 		);
 		
 		foreach ( $rebootwp_block_styles as $block_name => $style_properties ) {
