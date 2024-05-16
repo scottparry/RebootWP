@@ -101,13 +101,14 @@ input:-webkit-autofill
 }
 
 /* Links */
-a,
-a:focus,
-a:hover {
+a, 
+a:focus {
     transition: 150ms linear all; /* add some smoothness to hovers */
     text-decoration: none !important;
 }
 
+/* Make links more accessible */
+a:hover,
 .entry-content p > a {
 	text-decoration: underline !important;
 }
