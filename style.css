@@ -125,6 +125,10 @@ ul {
 	padding: 0;
 }
 
+ul {
+	list-style: none;
+}
+
 ol:where(:not([class*="wp-block"])),
 ol:where(.wp-block-list),
 ul:where(:not([class*="wp-block"])),
