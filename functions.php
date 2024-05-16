@@ -74,8 +74,7 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			),
 			/* core/group */
 	        'core/group' => array(
-		        'rebootwp-group-border-radius' => esc_html__( 'Border Radius', 'rebootwp' ),
-				'rebootwp-group-box-shadow'    => esc_html__( 'Box Shadow', 'rebootwp' ),
+				'rebootwp-group-box-shadow' => esc_html__( 'Box Shadow', 'rebootwp' ),
 			),
 	        /* core/image */
 	        'core/image' => array(
