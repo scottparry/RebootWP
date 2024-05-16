@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.0.6  
+**Version:** 1.0.7  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,10 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.0.7 - 16/05/24**
+- Add underline to link hovers for better accessibility
+- Rolling back the footer copyright change. Using the site-title affects meta title display and updates the site-title everywhere. Using text based that can be easily edited.
 
 **1.0.6 - 16/05/24**
 - Changed footer site-title to h6 to be more semantic
