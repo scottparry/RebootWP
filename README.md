@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.0.7  
+**Version:** 1.0.8  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,12 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.0.8 - 17/05/24**
+- Update screenshot.png
+- New pattern - card-contact-info.php
+- Tweak purple duotone colour
+- Remove unordered list style bullets
 
 **1.0.7 - 16/05/24**
 - Add underline to link hovers for better accessibility
