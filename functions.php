@@ -89,6 +89,11 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			'core/paragraph' => array(
 		        'rebootwp-paragraph-gradient' => esc_html__( 'Gradient', 'rebootwp' ),
 			),
+			/* core/post-featured-image */
+			'core/post-featured-image' => array(
+		        'rebootwp-post-featured-image-box-shadow' => esc_html__( 'Box Shadow', 'rebootwp' ),
+		        'rebootwp-circle-post-featured-image'     => esc_html__( 'Circle', 'rebootwp' ),
+			),
 			/* core/site-title */
 			'core/site-title' => array(
 		        'rebootwp-site-title-gradient' => esc_html__( 'Gradient', 'rebootwp' ),
