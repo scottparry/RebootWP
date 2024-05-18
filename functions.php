@@ -78,7 +78,8 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			),
 	        /* core/image */
 	        'core/image' => array(
-		        'rebootwp-circle-image' => esc_html__( 'Circle', 'rebootwp' ),
+		        'rebootwp-image-box-shadow' => esc_html__( 'Box Shadow', 'rebootwp' ),
+		        'rebootwp-circle-image'     => esc_html__( 'Circle', 'rebootwp' ),
 			),
 			/* core/heading */
 			'core/heading' => array(
