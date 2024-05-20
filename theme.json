@@ -302,10 +302,26 @@
 				{
 					"fontFace": [
 						{
+							"fontFamily": "Lexend Deca",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "200 900",
+							"src": [
+								"file:./assets/fonts/LexendDeca-VariableFont_wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Lexend Deca\", sans-serif",
+					"name": "Lexend",
+					"slug": "lexend"
+				},
+				{
+					"fontFace": [
+						{
 							"fontFamily": "Mona Sans",
 							"fontStretch": "75% 125%",
 							"fontStyle": "normal",
-							"fontWeight": "400 900",
+							"fontWeight": "200 900",
 							"src": [
 								"file:./assets/fonts/MonaSans_slnt,wdth,wght.woff2"
 							]
@@ -321,7 +337,7 @@
 							"fontFamily": "Inter",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
-							"fontWeight": "400 900",
+							"fontWeight": "200 900",
 							"src": [
 								"file:./assets/fonts/Inter-VariableFont_slnt,wght.woff2"
 							]
