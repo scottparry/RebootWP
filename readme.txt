@@ -2,7 +2,7 @@ RebootWP WordPress Block Theme
 
 Tested up to: 6.5  
 Requires PHP: 7.3  
-Version: 1.0.8  
+Version: 1.0.9  
 License: GNU General Public License v3 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,16 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
 
 == Changelog ==
+
+= 1.0.9 - 22/05/24 =
+* Make screenshot compatible with wp.org
+* Delete index.php
+* Removed default footer logo
+* Update font licenses
+* Add new typeface Lexend Deca and tweak current fonts
+* Add image styles to core/post-featured-image
+* Add box shadow to core/image
+* Improve 404 template
 
 = 1.0.8 - 17/05/24 =
 * Update screenshot.png
