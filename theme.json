@@ -302,6 +302,22 @@
 				{
 					"fontFace": [
 						{
+							"fontFamily": "DM Sans",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "200 900",
+							"src": [
+								"file:./assets/fonts/DMSans-VariableFont_opsz,wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"DN Sans\", sans-serif",
+					"name": "DM Sans",
+					"slug": "dm-sans"
+				},
+				{
+					"fontFace": [
+						{
 							"fontFamily": "Lexend Deca",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
