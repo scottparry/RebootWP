@@ -326,6 +326,12 @@ a.more-link {
 	display: block;
 }
 
+/* Used for styling purposes */
+.no-block-spacing {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
 /* Font Stretch for Mona Typeface */
 .has-small-stretch-font-size,
 .has-medium-stretch-font-size,
