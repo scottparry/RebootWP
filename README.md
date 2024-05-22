@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.0.9  
+**Version:** 1.1.0  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.1.0 - 22/05/24**
+- Tweak screenshot for wp.org
 
 **1.0.9 - 22/05/24**
 - Make screenshot compatible with wp.org
