@@ -385,7 +385,7 @@
 					"slug": "small"
 				},
 				{
-					"size": "clamp(1.1rem, 1.5vw, 1.3rem)",
+					"size": "clamp(1.1rem, 1.4vw, 1.3rem)",
 					"slug": "medium"
 				},
 				{
@@ -406,36 +406,6 @@
 					"name": "3X Large",
 					"size": "clamp(3rem, 6.5vw, 6.5rem)",
 					"slug": "xxx-large"
-				},
-				{
-					"name": "Small Stretch",
-					"size": "0.8rem",
-					"slug": "small-stretch"
-				},
-				{
-					"name": "Medium Stretch",
-					"size": "1.1rem",
-					"slug": "medium-stretch"
-				},
-				{
-					"name": "Large Stretch",
-					"size": "1.3rem",
-					"slug": "large-stretch"
-				},
-				{
-					"name": "1X Large Stretch",
-					"size": "2.3rem",
-					"slug": "x-large-stretch"
-				},
-				{
-					"name": "2X Large Stretch",
-					"size": "4rem",
-					"slug": "xx-large-stretch"
-				},
-				{
-					"name": "3X Large Stretch",
-					"size": "5.5rem",
-					"slug": "xxx-large-stretch"
 				}
 			],
 			"letterSpacing": true
