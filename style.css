@@ -221,11 +221,12 @@ code {
 }
 
 *:not(.wp-block-code) > code {
-	background-color: var(--wp--preset--color--tertiary);
+	background-color: var(--wp--preset--color--light-grey);
     border-radius: 3px;
-    color: var(--wp--preset--color--seventyfiveopaquewhite);
+    color: var(--wp--preset--color--primary);
+    font-size: smaller;
 	font-weight: var(--wp--custom--font-weight--medium);
-	padding: 3px 5px;
+	padding: 4px 6px;
 	position: relative;
 }
 
