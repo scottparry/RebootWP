@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.1.1  
+**Version:** 1.1.2  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,15 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.1.2 - 23/05/24**
+- Set default heading typeface to Inter
+- Set default body typeface to Inter
+- Fix typo in fontFamily
+- Add DM Sans font
+- Author Bio fix
+- Tweak the footer block
+- Modify text-gradient CSS
 
 **1.1.1 - 22/05/24**
 - Update screenshot to match default demo
