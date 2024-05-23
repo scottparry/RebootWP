@@ -267,6 +267,15 @@ ul[class*=columns-].wp-block-post-template .wp-block-post > .wp-block-group
 	padding: 35px 50px;
 }
 
+.wp-block-post-comments-form[class*=-font-size] :where(.comment-reply-title), 
+.wp-block-post-comments-form[style*=font-size] :where(.comment-reply-title) {
+	font-size: var(--wp--preset--font-size--large);
+}
+
+p.logged-in-as {
+	font-size: var(--wp--preset--font-size--small);
+}
+
 .comment {
 	border-top: 1px solid var(--wp--preset--color--tenopaqueblack);
 	padding-top: 25px;
@@ -285,15 +294,6 @@ ul[class*=columns-].wp-block-post-template .wp-block-post > .wp-block-group
 	color: 1px solid var(--wp--preset--color--secondary);
 }
 
-#commentform p:first-of-type a {
-	float: left;
-	font-size: var(--wp--preset--font-size--small);
-	font-weight: 600;
-	line-height: 1.8rem;
-	margin-bottom: 15px;
-	width: 100%;
-}
-
 #commentform .required-field-message {
 	color: #ff0000;
 	font-size: var(--wp--preset--font-size--xxx-small);
@@ -301,7 +301,13 @@ ul[class*=columns-].wp-block-post-template .wp-block-post > .wp-block-group
 	margin-top: 5px;
 }
 
-#commentform label[for="comment"] {
+#commentform label,
+.comment-notes,
+.comment-form-cookies-consent  {
+	font-size: var(--wp--preset--font-size--small);
+}
+
+.wp-block-post-comments-form input[type=submit] {
 	font-weight: 600;
 }
 
