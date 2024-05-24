@@ -2,7 +2,7 @@ RebootWP WordPress Block Theme
 
 Tested up to: 6.5  
 Requires PHP: 7.3  
-Version: 1.1.2  
+Version: 1.1.3  
 License: GNU General Public License v3 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,16 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
 
 == Changelog ==
+
+= 1.1.3 - 24/05/24 =
+* Blockquote styling
+* Tweak 3X Large font size
+* Text decoration consistency on submit button hover
+* Improve styling for inline code
+* Improve template spacing
+* Improve templates
+* Improve comment styling
+* Tweak fonts
 
 = 1.1.2 - 23/05/24 =
 * Set default heading typeface to Inter
