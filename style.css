@@ -234,20 +234,6 @@ code {
 	position: relative;
 }
 
-/* Blockquote */
-.wp-block-quote {
-	border-color: var(--wp--preset--color--primary-accent) !important;
-	font-weight: bold;
-	font-size: larger;
-    margin: 1.75em 0 1.75em !important;
-    padding-left: 1em;
-}
-
-.wp-block-quote cite {
-	color: var(--wp--preset--color--fiftyopaqueblack);
-	font-weight: 400;
-}
-
 /* Navigation */
 .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
     background: none !important;
@@ -327,7 +313,7 @@ p.logged-in-as {
 }
 
 .wp-block-post-comments-form input[type="submit"] {
-	font-weight: bold;
+	font-weight: 600;
 }
 
 textarea#comment {
