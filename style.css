@@ -154,6 +154,10 @@ textarea {
 	transition: 150ms linear all; /* add some smoothness to hovers */
 }
 
+input[type="submit"]:hover {
+	text-decoration: underline !important;
+}
+
 input:not([type="submit"]),
 select,
 textarea,
@@ -308,7 +312,7 @@ p.logged-in-as {
 	font-size: var(--wp--preset--font-size--small);
 }
 
-.wp-block-post-comments-form input[type=submit] {
+.wp-block-post-comments-form input[type="submit"] {
 	font-weight: 600;
 }
 
