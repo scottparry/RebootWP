@@ -140,9 +140,6 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			'rebootwp/cards' => array(
 				'label' => esc_html__( 'Cards', 'rebootwp' ),
 			),
-			'rebootwp/cta' => array(
-				'label' => esc_html__( 'Call to Action', 'rebootwp' ),
-			),
 			'rebootwp/features' => array(
 				'label' => esc_html__( 'Features', 'rebootwp' ),
 			),
