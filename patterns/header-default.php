@@ -2,7 +2,7 @@
 /**
  * Title: Basic Header with Navigation
  * Slug: header-basic
- * Description: Basic header with navigation
+ * Description: Basic Header with Navigation
  * Categories: rebootwp/headers
  * Keywords: headers, layout, template
  * Viewport Width: 1360

@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: CTA dark centered
+ * Title: CTA Dark Centered
  * Slug: cta-dark-centered
- * Description: CTA dark centered
+ * Description: CTA Dark Centered
  * Categories: rebootwp/cta
  * Keywords: text, cta, call to action, layout, template, block
  * Viewport Width: 1360

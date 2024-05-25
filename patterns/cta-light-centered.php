@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: CTA light centered
+ * Title: CTA Light Centered
  * Slug: cta-light-centered
- * Description: CTA light centered
+ * Description: CTA Light Centered
  * Categories: rebootwp/cta
  * Keywords: text, cta, call to action, layout, template, block
  * Viewport Width: 1360
