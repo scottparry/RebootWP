@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Pricing Table Single
- * Slug: pricing-table-clean
- * Description: Clean single pricing card with description and action button
+ * Title: Pricing Table Single Light
+ * Slug: pricing-table-single-light
+ * Description: Light single pricing with description and action button
  * Categories: rebootwp/pricing
  * Keywords: pricing, subscription, layout, template, block
  * Viewport Width: 1360
@@ -12,14 +12,15 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|80","right":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"var:preset|spacing|80","right":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"primary-accent","fontSize":"x-small"} -->
 <p class="has-primary-accent-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:700">Get everything with all-access</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"x-small"} -->
-<p class="has-x-small-font-size">You’re a Pro and want everything we got!</p>
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaqueblack"}}}},"textColor":"seventyfiveopaqueblack","fontSize":"x-small"} -->
+<p class="has-seventyfiveopaqueblack-color has-text-color has-link-color has-x-small-font-size">You’re a Pro and want everything we got!</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -34,8 +35,8 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|70"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p>Get lifetime access to every one of our patterns and templates as well as all future updates for a single monthly subscription.</p>
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size">Get lifetime access to every one of our patterns and templates as well as all future updates for a single monthly subscription.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"tenopaqueblack","className":"is-style-wide"} -->
@@ -64,4 +65,5 @@
 <!-- wp:paragraph -->
 <p>✔ <strong>Lifetime access</strong> — get instant access to everything we have today, plus any new patterns and templates we add in the future.</p>
 <!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
