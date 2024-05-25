@@ -18,12 +18,12 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3,"fontSize":"x-large-stretch"} -->
-<h3 class="wp-block-heading has-text-align-center has-x-large-stretch-font-size">Expressive Design.</h3>
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-text-align-center has-x-large-font-size">Expressive Design.</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","fontSize":"medium-stretch"} -->
-<p class="has-text-align-center has-medium-stretch-font-size">With the WordPress Site Editor and Reboot, you can build your entire website with blocks &amp; patterns directly your browser.</p>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.6"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="line-height:1.6">With RebootWP &amp; the WordPress Site Editor, you can build your entire website with blocks &amp; patterns directly your browser.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -34,48 +34,48 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"backgroundColor":"white","className":"is-style-column-border-radius"} -->
 <div class="wp-block-column is-style-column-border-radius has-white-background-color has-background" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"small-stretch"} -->
-<p class="has-primary-accent-color has-text-color has-link-color has-small-stretch-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Edit</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"xx-small"} -->
+<p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Edit</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"medium-stretch"} -->
-<h3 class="wp-block-heading has-medium-stretch-font-size">Design without ever leaving your browser.</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":1.6}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.6">Make edits without ever leaving your browser.</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium-stretch"} -->
-<p class="has-medium-stretch-font-size">With Site Editor and Reboot, every pixel becomes editable right in your browser, in real time — no coding required.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.6">With Site Editor and Reboot, every pixel becomes editable right in your browser, in real time — no coding required.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"backgroundColor":"white","className":"is-style-column-border-radius"} -->
 <div class="wp-block-column is-style-column-border-radius has-white-background-color has-background" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"small-stretch"} -->
-<p class="has-primary-accent-color has-text-color has-link-color has-small-stretch-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Build</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"xx-small"} -->
+<p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Build</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"medium-stretch"} -->
-<h3 class="wp-block-heading has-medium-stretch-font-size">There's a block for that and that and that...</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":1.6}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.6">There's a block for that and that and that...</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium-stretch"} -->
-<p class="has-medium-stretch-font-size">Blocks allow you to create rich and flexible layouts with a modular system and blazingly fast, intuitive interface.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.6">Blocks allow you to create rich and flexible layouts with a modular system and blazingly fast, intuitive interface.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"backgroundColor":"white","className":"is-style-column-border-radius"} -->
 <div class="wp-block-column is-style-column-border-radius has-white-background-color has-background" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"small-stretch"} -->
-<p class="has-primary-accent-color has-text-color has-link-color has-small-stretch-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Extend</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}},"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"}},"textColor":"primary-accent","fontSize":"xx-small"} -->
+<p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Extend</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"medium-stretch"} -->
-<h3 class="wp-block-heading has-medium-stretch-font-size">Pre-built pixel-perfect pattern designs.</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":1.6}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.6">Pre-built pixel-perfect pattern designs.</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium-stretch"} -->
-<p class="has-medium-stretch-font-size">Beautifully designed Patterns, Templates &amp; Styles allow you to create page layouts and sections quickly and easily.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":1.6}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.6">Beautifully designed Patterns, Templates &amp; Styles allow you to create page layouts and sections quickly and easily.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

@@ -20,27 +20,27 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"35%"} -->
 <div class="wp-block-column" style="flex-basis:35%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}}},"textColor":"primary-accent","fontSize":"small-stretch"} -->
-<p class="has-secondary-color has-text-color has-link-color has-small-stretch-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">A little teaser text</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","textTransform":"uppercase"},"elements":{"link":{"color":{"text":"var:preset|color|primary-accent"}}}},"textColor":"primary-accent","fontSize":"xx-small"} -->
+<p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">A New Way To Design</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"x-large-stretch"} -->
-<h2 class="wp-block-heading has-x-large-stretch-font-size" style="line-height:1.2">Explain the most important features here first.</h2>
+<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"800","letterSpacing":"-1px"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size" style="font-style:normal;font-weight:800;letter-spacing:-1px">Unlock new ways to design with WordPress &amp; Site Editor.</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"65%"} -->
-<div class="wp-block-column" style="flex-basis:65%"><!-- wp:paragraph {"fontSize":"large-stretch"} -->
-<p class="has-large-stretch-font-size">Then continue over here to outline the rest.</p>
+<div class="wp-block-column" style="flex-basis:65%"><!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Say Goodbye to overly complicated page builders.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"large-stretch"} -->
-<p class="has-large-stretch-font-size"><strong>Reboot</strong> fully utilises the<strong> WordPress Site Editor</strong>, allowing you to enjoy an expressive, full site editing experience like never before. It is one of the<strong><em> </em>most powerful page builders</strong> available today.</p>
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"><strong>RebootWP</strong>&nbsp;fully utilises the<strong>&nbsp;WordPress Site Editor</strong>, allowing you to enjoy an expressive, full site editing experience like never before.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph {"fontSize":"large-stretch"} -->
-<p class="has-large-stretch-font-size">This is the future, this is a <strong>new era of WordPress</strong> themes.</p>
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">This is the future, this is the <strong>evolution of WordPress</strong> themes.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
