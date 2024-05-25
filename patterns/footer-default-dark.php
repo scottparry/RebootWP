@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Footer Dark
- * Slug: footer-dark
- * Description: Footer Dark
+ * Title: Footer Default Dark
+ * Slug: footer-default-dark
+ * Description: Footer Default Dark
  * Categories: rebootwp/footers
  * Keywords: footers, layout, template
  * Viewport Width: 1360

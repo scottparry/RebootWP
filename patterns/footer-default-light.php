@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Footer Light
- * Slug: footer-light
- * Description: Footer Light
+ * Title: Footer Default Light
+ * Slug: footer-default-light
+ * Description: Footer Default Light
  * Categories: rebootwp/footers
  * Keywords: footers, layout, template
  * Viewport Width: 1360
