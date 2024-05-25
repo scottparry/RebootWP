@@ -40,7 +40,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"large"} -->
-<p class="has-large-font-size">This is the future, this is the <strong>evolution of WordPress</strong> themes.</p>
+<p class="has-large-font-size">This is the future, this is the  <strong>evolution of WordPress</strong>  themes.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
