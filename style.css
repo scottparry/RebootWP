@@ -440,44 +440,13 @@ a.link.effect {
     float: left;
 }
 
-.has-large-stretch-font-size {
-    font-size: 1.2em !important;
-}
-
-/* stretch fonts need manually scaling to look nice */
-.has-x-large-stretch-font-size,
-.has-xx-large-stretch-font-size,
-.has-xxx-large-stretch-font-size {
-    font-size: 2.5rem !important;
-}
 /* Media Queries: Tablet (portrait) */
 @media only screen and (min-width: 767px) {
 
 }
 /* Media Queries: Tablet (landscape) */
 @media only screen and (min-width: 1023px) {
-    .is-content-justification-right {
-        float: right;
-    }
 
-    .has-large-stretch-font-size {
-        font-size: var(--wp--preset--font-size--large-stretch) !important;
-    }
-
-    .has-x-large-stretch-font-size
-    {
-        font-size: var(--wp--preset--font-size--x-large-stretch) !important;
-    }
-
-    .has-xx-large-stretch-font-size
-    {
-        font-size: var(--wp--preset--font-size--xx-large-stretch) !important;
-    }
-
-    .has-xxx-large-stretch-font-size
-    {
-        font-size: var(--wp--preset--font-size--xxx-large-stretch) !important;
-    }
 }
 /* Media Queries: Regular Desktops */
 @media only screen and (min-width: 1278px) {
