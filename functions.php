@@ -137,6 +137,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			'rebootwp/about' => array(
 				'label' => esc_html__( 'About', 'rebootwp' ),
 			),
+			'rebootwp/banners' => array(
+				'label' => esc_html__( 'Banners', 'rebootwp' ),
+			),
 			'rebootwp/cta' => array(
 				'label' => esc_html__( 'Call to Action', 'rebootwp' ),
 			),
@@ -151,6 +154,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			),
 	        'rebootwp/headers' => array(
 				'label' => esc_html__( 'Headers', 'rebootwp' ),
+			),
+			'rebootwp/heros' => array(
+				'label' => esc_html__( 'Heros', 'rebootwp' ),
 			),
 			'rebootwp/pages' => array(
 				'label' => esc_html__( 'Pages', 'rebootwp' ),
