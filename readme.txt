@@ -113,10 +113,11 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 == Images ==
-* dark-logo.webp, light-logo.webp, hero.webp, block-editor-hero.webp - created by Scott Parry.
+* dark-logo.webp, light-logo.webp, hero.webp, block-editor-hero.webp - created by Scott Parry.   
+* Images used in Patterns Unsplash: https://unsplash.com/license   
 
 == Fonts == 
-* DM Sans font SIL Open Font License 1.1: https://github.com/googlefonts/dm-fonts?tab=readme-ov-file
-* Inter font SIL Open Font License 1.1: https://github.com/rsms/inter/blob/master/LICENSE.txt
-* Lexend font SIL Open Font License 1.1: https://github.com/googlefonts/lexend?tab=OFL-1.1-1-ov-file
+* DM Sans font SIL Open Font License 1.1: https://github.com/googlefonts/dm-fonts?tab=readme-ov-file   
+* Inter font SIL Open Font License 1.1: https://github.com/rsms/inter/blob/master/LICENSE.txt   
+* Lexend font SIL Open Font License 1.1: https://github.com/googlefonts/lexend?tab=OFL-1.1-1-ov-file   
 * Mona font SIL Open Font License 1.1: https://github.com/github/mona-sans/blob/main/LICENSE  
