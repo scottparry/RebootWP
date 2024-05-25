@@ -67,10 +67,3 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
-Pattern
-Block
-
-Pricing Table Single (Copy)
-
-Pattern Categories
-NotificationsCode editor selected
