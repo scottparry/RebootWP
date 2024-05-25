@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.1.3  
+**Version:** 1.1.4  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,22 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.1.4 - 25/05/24**
+- Add CTA pattern category
+- Pattern naming
+- Update text-image-block.php
+- Update footer-light.php
+- Add light footer pattern
+- Add dummy links to footer
+- Updating patterns
+- CSS tweaks and style pattern previews for better visibility
+- Remove stretch font CSS
+- Add sample text and socials to footer
+- Improve Footers
+- Update index.html
+- Improve Headers
+- Improve default patterns
 
 **1.1.3 - 24/05/24**
 - Blockquote styling
