@@ -357,16 +357,6 @@ a.more-link {
     margin-bottom: 0 !important;
 }
 
-/* Font Stretch for Mona Typeface */
-.has-small-stretch-font-size,
-.has-medium-stretch-font-size,
-.has-large-stretch-font-size,
-.has-x-large-stretch-font-size,
-.has-xx-large-stretch-font-size,
-.has-xxx-large-stretch-font-size {
-    font-stretch: 125%;
- }
-
  /* Text Gradient */
 .rebootwp-text-gradient {
     -webkit-text-fill-color: transparent;
@@ -382,59 +372,68 @@ a.more-link {
  * Usage: class="link effect" on anchor 
  */
 .link {
-   display: inline-block;
-   line-height: 1;
-   outline: none;
-   position: relative;
-   text-decoration: none;
+    display: inline-block;
+    line-height: 1;
+    outline: none;
+    position: relative;
+    text-decoration: none;
 }
 
 .effect {
-   line-height: 0.75;
-   overflow: hidden;
+    line-height: 0.75;
+    overflow: hidden;
 }
 
 .effect:hover {
-   color: #cccccc;
+    color: #cccccc;
 }
 
 .effect::after {
-   background: var(--wp--preset--color--secondary-accent) !important;
-   content: ' ';
-   height: 1px;
-   margin-top: 0;
-   position: absolute;
-   right: 1px;
-   top: 50%;
-   transform: translate3d(-100%,0,0);
-   transition: transform 0.4s;
-   transition-timing-function: cubic-bezier(0.7,0,0.3,1);
-   width: 100%;
+    background: var(--wp--preset--color--secondary-accent) !important;
+    content: ' ';
+    height: 1px;
+    margin-top: 0;
+    position: absolute;
+    right: 1px;
+    top: 50%;
+    transform: translate3d(-100%,0,0);
+    transition: transform 0.4s;
+    transition-timing-function: cubic-bezier(0.7,0,0.3,1);
+    width: 100%;
 }
 
 .effect:hover::after {
-   transform: translate3d(100%,0,0);
+    transform: translate3d(100%,0,0);
 }
 
 .effect::before {
-   color: var(--wp--preset--color--secondary-accent) !important;
-   content: attr(data-attr);
-   overflow: hidden;
-   position: absolute;
-   transition: width 0.4s 0.3s;
-   white-space: nowrap;
-   width: 0%;
-   z-index: 2;
+    color: var(--wp--preset--color--secondary-accent) !important;
+    content: attr(data-attr);
+    overflow: hidden;
+    position: absolute;
+    transition: width 0.4s 0.3s;
+    white-space: nowrap;
+    width: 0%;
+    z-index: 2;
 }
 
 .effect:hover::before {
-   width: 100%;
+    width: 100%;
 }
 
 a.link.effect {
-   position: relative;
-   z-index: 999;
+    position: relative;
+    z-index: 999;
 }
+
+/* Style pattern previews to make more visible */
+.edit-site-page-patterns-dataviews .page-patterns-preview-field {
+    background: #e7ebee !important;
+    display: grid;
+    padding: 15px;
+    place-items: center;
+}
+
 /* Media Queries: Mobile */
 .is-content-justification-right {
     float: left;
