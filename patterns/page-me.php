@@ -13,14 +13,16 @@
  */
 ?>
 <!-- wp:cover {"overlayColor":"primary","isUserOverlayColor":true,"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"960px"}} -->
-<div class="wp-block-cover" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20","padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained","justifyContent":"center","contentSize":"450px"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":2090,"width":"214px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{}},"className":"is-style-rebootwp-circle-image"} -->
-<figure class="wp-block-image aligncenter size-full is-resized is-style-rebootwp-circle-image"><img src="https://rebootwp.com/wp-content/uploads/2024/05/me.png" alt="" class="wp-image-2090" style="width:214px;height:auto"/></figure>
+<div class="wp-block-cover" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained","justifyContent":"center","contentSize":"450px"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|60"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":2090,"width":"200px","height":"200px","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":[]},"className":"is-style-rebootwp-circle-image"} -->
+<figure class="wp-block-image aligncenter size-full is-resized is-style-rebootwp-circle-image"><img src="https://rebootwp.com/images/placeholder.webp" alt="" class="wp-image-2090" style="object-fit:cover;width:200px;height:200px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-large"} -->
 <p class="has-text-align-center has-x-large-font-size" style="font-style:normal;font-weight:700">Scott Parry</p>
-<!-- /wp:paragraph -->
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|fiftyopaquewhite"}}},"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"fiftyopaquewhite"} -->
 <p class="has-text-align-center has-fiftyopaquewhite-color has-text-color has-link-color" style="font-style:normal;font-weight:400">Designer / Developer</p>
