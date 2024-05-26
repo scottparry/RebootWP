@@ -3,5 +3,5 @@
 }
 
 .wp-block-image.is-style-rebootwp-circle-image img {
-	border-radius: 100%;
+	clip-path: circle();
 }
