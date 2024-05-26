@@ -18,7 +18,6 @@ Text Domain: rebootwp
 *::before,
 *::after {
 	box-sizing: inherit;
-    line-height: 1.2em;
 }
 
 html {
@@ -34,6 +33,7 @@ html {
  * Defaults. !important required to override editor style 
  */
 body {
+    line-height: 130%;
     margin: 0 !important;
     padding: 0 !important;
     text-rendering: optimizeLegibility;
@@ -41,6 +41,14 @@ body {
 	-ms-text-size-adjust: 100%;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
+}
+
+h1, h2, h3 {
+    line-height: 115%;
+}
+
+h4, h5, h6 {
+    line-height: 120%;
 }
 
 ::-moz-selection
