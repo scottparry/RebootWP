@@ -38,8 +38,8 @@
 <h2 class="wp-block-heading is-style-default has-primary-color has-text-color has-link-color has-xx-small-font-size" style="text-transform:uppercase">RebootWP</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-primary-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">About</a></p>
 <!-- /wp:paragraph -->
 
@@ -62,8 +62,8 @@
 <h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-x-small-font-size" style="text-transform:uppercase">Learn</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-primary-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">Site Editor</a></p>
 <!-- /wp:paragraph -->
 
@@ -86,8 +86,8 @@
 <h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-x-small-font-size" style="text-transform:uppercase">More</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-primary-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">Contact</a></p>
 <!-- /wp:paragraph -->
 

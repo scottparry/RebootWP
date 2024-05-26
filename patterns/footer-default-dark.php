@@ -38,8 +38,8 @@
 <h2 class="wp-block-heading is-style-default has-white-color has-text-color has-link-color has-xx-small-font-size" style="text-transform:uppercase">RebootWP</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">About</a></p>
 <!-- /wp:paragraph -->
 
@@ -57,13 +57,13 @@
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|60"}}} -->
-<div class="wp-block-column"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textTransform":"uppercase"}},"textColor":"white","fontSize":"x-small"} -->
+<!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|60"}},"fontSize":"x-small"} -->
+<div class="wp-block-column has-x-small-font-size"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textTransform":"uppercase"}},"textColor":"white","fontSize":"x-small"} -->
 <h2 class="wp-block-heading has-white-color has-text-color has-link-color has-x-small-font-size" style="text-transform:uppercase">Learn</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">Site Editor</a></p>
 <!-- /wp:paragraph -->
 
@@ -86,8 +86,8 @@
 <h2 class="wp-block-heading has-white-color has-text-color has-link-color has-x-small-font-size" style="text-transform:uppercase">More</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color"><!-- wp:paragraph -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|seventyfiveopaquewhite"}}}},"textColor":"seventyfiveopaquewhite","layout":{"type":"constrained"},"fontSize":"small"} -->
+<div class="wp-block-group has-seventyfiveopaquewhite-color has-text-color has-link-color has-small-font-size"><!-- wp:paragraph -->
 <p><a href="#">Contact</a></p>
 <!-- /wp:paragraph -->
 
