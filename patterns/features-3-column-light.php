@@ -22,8 +22,8 @@
 <h2 class="wp-block-heading has-text-align-center has-x-large-font-size">Expressive Design.</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size">With RebootWP &amp; the WordPress Site Editor, you can build your entire website with blocks &amp; patterns directly your browser.</p>
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="line-height:1.5">With RebootWP &amp; the WordPress Site Editor, you can build your entire website with blocks &amp; patterns directly your browser.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -38,12 +38,12 @@
 <p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Edit</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">Make edits without ever leaving your browser.</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":"1.4"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.4">Make edits without ever leaving your browser.</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">With Site Editor and Reboot, every pixel becomes editable right in your browser, in real time — no coding required.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.5">With Site Editor and Reboot, every pixel becomes editable right in your browser, in real time — no coding required.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -54,12 +54,12 @@
 <p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Build</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">There's a block for that and that and that...</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":"1.4"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.4">There's a block for that and that and that...</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Blocks allow you to create rich and flexible layouts with a modular system and blazingly fast, intuitive interface.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.5">Blocks allow you to create rich and flexible layouts with a modular system and blazingly fast, intuitive interface.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -70,12 +70,12 @@
 <p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">Extend</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":3,"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size">Pre-built pixel-perfect pattern designs.</h3>
+<!-- wp:heading {"level":3,"style":{"typography":{"lineHeight":1.4}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-large-font-size" style="line-height:1.4">Pre-built pixel-perfect pattern designs.</h3>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Beautifully designed Patterns, Templates &amp; Styles allow you to create page layouts and sections quickly and easily.</p>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.5">Beautifully designed Patterns, Templates &amp; Styles allow you to create page layouts and sections quickly and easily.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
