@@ -158,6 +158,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			'rebootwp/heros' => array(
 				'label' => esc_html__( 'Heros', 'rebootwp' ),
 			),
+			'rebootwp/logos' => array(
+				'label' => esc_html__( 'Logos', 'rebootwp' ),
+			),
 			'rebootwp/pages' => array(
 				'label' => esc_html__( 'Pages', 'rebootwp' ),
 	        ),
