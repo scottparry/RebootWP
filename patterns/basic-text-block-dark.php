@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Basic Text Block
- * Slug: text-two-third-block
- * Description: A basic text block with a title and description
+ * Title: Basic Text Block Dark
+ * Slug: basic-text-block-dark
+ * Description: Basic Text Block Dark
  * Categories: rebootwp/text
  * Keywords: about, features, content, layout, template, block
  * Viewport Width: 1360
@@ -12,8 +12,8 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"}}},"layout":{"type":"constrained","contentSize":"1360px"}} -->
-<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:spacer {"height":"75px"} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":"1360px"}} -->
+<div class="wp-block-group has-white-background-color has-background" style="padding-right:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
@@ -24,14 +24,14 @@
 <p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">A New Way To Design</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"800","letterSpacing":"-1px"}},"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size" style="font-style:normal;font-weight:800;letter-spacing:-1px">Unlock new ways to design with WordPress &amp; Site Editor.</h2>
+<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"800","letterSpacing":"-1px","lineHeight":"1.3"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size" style="font-style:normal;font-weight:800;letter-spacing:-1px;line-height:1.3">Unlock new ways to design with WordPress &amp; Site Editor.</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"65%"} -->
-<div class="wp-block-column" style="flex-basis:65%"><!-- wp:paragraph {"fontSize":"large"} -->
+<!-- wp:column {"width":"65%","style":{"typography":{"lineHeight":"1.5"}}} -->
+<div class="wp-block-column" style="line-height:1.5;flex-basis:65%"><!-- wp:paragraph {"fontSize":"large"} -->
 <p class="has-large-font-size">Say Goodbye to overly complicated page builders.</p>
 <!-- /wp:paragraph -->
 
