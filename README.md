@@ -124,7 +124,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 **Images:**  
 dark-logo.webp, light-logo.webp, hero.webp, block-editor-hero.webp - created by Scott Parry.   
-Images used in Patterns from Unsplash: https://unsplash.com/license   
 
 **Fonts:**  
 DM Sans font SIL Open Font License 1.1: https://github.com/googlefonts/dm-fonts?tab=readme-ov-file  
