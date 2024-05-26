@@ -167,6 +167,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			'rebootwp/pricing' => array(
 				'label' => esc_html__( 'Pricing', 'rebootwp' ),
 			),
+			'rebootwp/team' => array(
+				'label' => esc_html__( 'Team', 'rebootwp' ),
+			),
 	        'rebootwp/testimonials' => array(
 				'label' => esc_html__( 'Testimonials', 'rebootwp' ),
 			),
