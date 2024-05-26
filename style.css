@@ -252,7 +252,7 @@ code {
 }
 
 .wp-block-quote cite {
-	color: var(--wp--preset--color--fiftyopaqueblack);
+	opacity: 0.5;
 	font-weight: 400;
 }
 
