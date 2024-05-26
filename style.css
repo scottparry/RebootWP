@@ -33,7 +33,7 @@ html {
  * Defaults. !important required to override editor style 
  */
 body {
-    line-height: 130%;
+    line-height: 150%;
     margin: 0 !important;
     padding: 0 !important;
     text-rendering: optimizeLegibility;
