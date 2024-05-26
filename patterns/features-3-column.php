@@ -12,8 +12,8 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"backgroundColor":"light-grey","layout":{"type":"constrained","contentSize":"1360px"}} -->
-<div class="wp-block-group has-light-grey-background-color has-background"><!-- wp:spacer {"height":"65px"} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|40"}},"backgroundColor":"light-grey","layout":{"type":"constrained","contentSize":"1360px"}} -->
+<div class="wp-block-group has-light-grey-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:spacer {"height":"65px"} -->
 <div style="height:65px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
