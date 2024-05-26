@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: 3 Column Features
- * Slug: features-3-column
- * Description: 3 Column Features
+ * Title: Features 3 Column Light
+ * Slug: features-3-column-light
+ * Description: Features 3 Column Light
  * Categories: rebootwp/features
  * Keywords: columns, features, info, layout, template
  * Viewport Width: 1360
