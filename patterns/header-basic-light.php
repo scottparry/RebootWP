@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Basic Header with Navigation
- * Slug: header-basic
- * Description: Basic Header with Navigation
+ * Title: Header Basic Light
+ * Slug: header-basic-light
+ * Description: Header Basic Light
  * Categories: rebootwp/headers
  * Keywords: headers, layout, template
  * Viewport Width: 1360
@@ -12,8 +12,8 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"tagName":"header","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"position":{"type":""}},"backgroundColor":"twentyfiveopaquewhite","textColor":"white","className":"is-style-rebootwp-column-box-shadow","layout":{"type":"constrained"}} -->
-<header class="wp-block-group is-style-rebootwp-column-box-shadow has-white-color has-twentyfiveopaquewhite-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<!-- wp:group {"tagName":"header","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"position":{"type":""}},"backgroundColor":"white","className":"is-style-rebootwp-column-box-shadow","layout":{"type":"constrained"}} -->
+<header class="wp-block-group is-style-rebootwp-column-box-shadow has-white-background-color has-background" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:site-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"large"} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
