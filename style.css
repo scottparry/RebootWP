@@ -256,30 +256,6 @@ code {
 	font-weight: 400;
 }
 
-/* Navigation */
-.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
-    background: none !important;
-    border: none !important;
-    margin: 0 !important;
-    padding: 34px 0 !important;
-}
-
-.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container li {
-    background-color: var(--wp--preset--color--white);
-    border: 1px solid rgba(0, 0, 0, 0.05);
-    margin-bottom: -1px;
-    padding: 4px 3px 3px 3px;
-}
-
-.current-menu-item a {
-	color: var(--wp--preset--color--primary-accent) !important;
-}
-
-.wp-block-navigation__responsive-container-close {
-    right: 20px !important;
-    top: 20px !important;
-}
-
 /* Force equal post height */
 ul[class*=columns-].wp-block-post-template .wp-block-post > .wp-block-group
 {

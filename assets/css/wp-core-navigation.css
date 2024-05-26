@@ -1,0 +1,68 @@
+/* Sub-menu Navigation */
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+    background: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 34px 0 !important;
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container li {
+    background-color: var(--wp--preset--color--white);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: -1px;
+    padding: 4px 3px 3px 3px;
+}
+
+.current-menu-item a {
+    color: var(--wp--preset--color--primary-accent) !important;
+}
+
+/* Mobile Navigation */
+.wp-block-navigation:not(.has-background) .wp-block-navigation__responsive-container.is-menu-open {
+    background-color: var(--wp--preset--color--primary-accent);
+    display: grid;
+    place-items: center;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open ul {
+    margin: 0 auto;
+    padding: 25px 0;
+}
+
+.wp-block-navigation .wp-block-navigation-item {
+    display: inline !important;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open ul li {
+    display: inline !important;
+    font-size: var(--wp--preset--font-size--xx-large);
+    line-height: 110%;
+    text-align: center;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open ul li.has-x-small-font-size {
+    font-size: var(--wp--preset--font-size--large) !important;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open ul li,
+.wp-block-navigation__responsive-container.is-menu-open ul li.current-menu-item a {
+    color: var(--wp--preset--color--white) !important;
+}
+
+.wp-block-navigation__responsive-container-close {
+    position: fixed;
+    right: 25px !important;
+    top: 25px !important;
+}
+
+.wp-block-navigation__responsive-container-open svg,
+.wp-block-navigation__responsive-container-close svg {
+    background-color: var(--wp--preset--color--white);
+    border-radius: 3px;
+    display: block;
+    fill: var(--wp--preset--color--black);
+    height: 45px;
+    padding: 10px;
+    pointer-events: none;
+    width: 45px;
+}
