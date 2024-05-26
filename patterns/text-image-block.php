@@ -57,8 +57,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":3230,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grape"}}} -->
-<figure class="wp-block-image size-large"><img src="https://rebootwp.com/wp-content/uploads/2024/05/rebootwp-1024x824.webp" alt="" class="wp-image-3230" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":3230,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"color":{}}} -->
+<figure class="wp-block-image size-large"><img src="https://rebootwp.com/images/placeholder.webp" alt="" class="wp-image-3230" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
