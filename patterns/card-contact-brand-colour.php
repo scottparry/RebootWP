@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Contact Info Card
- * Slug: card-contact-info
- * Description: A basic contact info card
+ * Title: Card Contact Brand Colour
+ * Slug: card-contact-brand-colour
+ * Description: Card Contact Brand Colour
  * Categories: rebootwp/cards
  * Keywords: about, contact, card, content, layout, template, block
  * Viewport Width: 1360
@@ -12,9 +12,9 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}},"backgroundColor":"primary-accent","textColor":"white","layout":{"type":"constrained","contentSize":"1360px"}} -->
-<div class="wp-block-group has-white-color has-primary-accent-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","className":"is-style-default","fontSize":"x-large"} -->
-<h2 class="wp-block-heading is-style-default has-white-color has-text-color has-link-color has-x-large-font-size">Get In Touch.</h2>
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70","right":"var:preset|spacing|70"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":"5px"}},"backgroundColor":"primary-accent","textColor":"white","layout":{"type":"constrained","contentSize":"1360px"}} -->
+<div class="wp-block-group has-white-color has-primary-accent-background-color has-text-color has-background has-link-color" style="border-radius:5px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"letterSpacing":"-1px"}},"textColor":"white","className":"is-style-default","fontSize":"x-large"} -->
+<h2 class="wp-block-heading is-style-default has-white-color has-text-color has-link-color has-x-large-font-size" style="letter-spacing:-1px">Get In Touch.</h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"backgroundColor":"twentyfiveopaquewhite","className":"is-style-wide"} -->
@@ -27,7 +27,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<p class="has-large-font-size" style="font-style:normal;font-weight:500">get@rebootwp.com</p>
+<p class="has-large-font-size" style="font-style:normal;font-weight:500"><a href="mailto:get@rebootwp.com">get@rebootwp.com</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
