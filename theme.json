@@ -289,6 +289,11 @@
 					"color": "#f6f7fa",
 					"name": "Light Grey",
 					"slug": "light-grey"
+				},
+				{
+					"color": "transparent",
+					"name": "Transparent",
+					"slug": "transparent"
 				}
 			]
 		},
