@@ -44,7 +44,7 @@
     font-size: var(--wp--preset--font-size--large) !important;
 }
 
-.wp-block-navigation__responsive-container.is-menu-open ul li,
+.wp-block-navigation__responsive-container.is-menu-open ul li a,
 .wp-block-navigation__responsive-container.is-menu-open ul li.current-menu-item a {
     color: var(--wp--preset--color--white) !important;
 }
