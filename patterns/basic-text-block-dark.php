@@ -24,8 +24,8 @@
 <p class="has-primary-accent-color has-text-color has-link-color has-xx-small-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase">A New Way To Design</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"800","letterSpacing":"-1px","lineHeight":"1.3"}},"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size" style="font-style:normal;font-weight:800;letter-spacing:-1px;line-height:1.3">Unlock new ways to design with WordPress &amp; Site Editor.</h2>
+<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","letterSpacing":"-1px","lineHeight":"1.3"}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading has-x-large-font-size" style="font-style:normal;letter-spacing:-1px;line-height:1.3">Unlock new ways to design with WordPress &amp; Site Editor.</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
