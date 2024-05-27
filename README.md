@@ -2,7 +2,8 @@
 
 # RebootWP WordPress Block Theme  
 
-### [Live Demo](https://www.rebootwp.com)  
+### [Website](https://www.rebootwp.com) Built with RebootWP     
+### [Theme Demo](https://www.demo.rebootwp.com)  
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
