@@ -340,7 +340,7 @@
 					"fontFace": [
 						{
 							"fontFamily": "Mona Sans",
-							"fontStretch": "75% 125%",
+							"fontStretch": "125%",
 							"fontStyle": "normal",
 							"fontWeight": "200 900",
 							"src": [
