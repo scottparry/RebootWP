@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.1.9  
+**Version:** 1.2.0  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,10 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.2.0 - 29/05/24**
+- Fix skip link focus in templates
+- Change screenshot text to Lorem Ipsum for WP.org submission
 
 **1.1.9 - 29/05/24**
 - WP.org submission
