@@ -59,11 +59,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>✔ <strong>Over 50+ patterns</strong> — everything you need to build beautiful designs.</p>
+<p class="has-small-font-size">✔ <strong>Over 50+ patterns</strong> — everything you need to build beautiful designs.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>✔ <strong>Lifetime access</strong> — get instant access to everything we have today, plus any new patterns and templates we add in the future.</p>
+<p class="has-small-font-size">✔ <strong>Lifetime access</strong> — get instant access to everything we have today, plus any new patterns and templates we add in the future.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
