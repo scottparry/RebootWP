@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Header Basic Light
- * Slug: header-basic-light
- * Description: Header Basic Light
+ * Title: Header Default Light
+ * Slug: header-default-light
+ * Description: Header Default Light
  * Categories: rebootwp/headers
  * Keywords: headers, layout, template
  * Viewport Width: 1360

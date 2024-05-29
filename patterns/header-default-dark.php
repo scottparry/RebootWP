@@ -1,8 +1,8 @@
 <?php
 /**
- * Title: Header Basic Dark
- * Slug: header-basic-dark
- * Description: Header Basic Dark
+ * Title: Header Default Dark
+ * Slug: header-default-dark
+ * Description: Header Default Dark
  * Categories: rebootwp/headers
  * Keywords: headers, layout, template
  * Viewport Width: 1360
