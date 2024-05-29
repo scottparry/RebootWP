@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.2.0  
+**Version:** 1.2.1  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,11 +22,19 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 
 ### Changelog
 
-**1.2.0 - 29/05/24**
+**1.2.1 - 29/05/24**
+- Increase mobile font size
+- Tweak padding on button
+- Add 4 new Styles
+- Modify link targetting for underline
+- Fix font size inconsistency in pricing patterns
+- Fix duplicate main element in archive template
+
+**1.2.0 - 28/05/24**
 - Fix skip link focus in templates
 - Change screenshot text to Lorem Ipsum for WP.org submission
 
-**1.1.9 - 29/05/24**
+**1.1.9 - 28/05/24**
 - WP.org submission
 
 **1.1.8 - 28/05/24**
