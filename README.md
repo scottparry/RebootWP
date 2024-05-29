@@ -1,4 +1,4 @@
-<img width="600" alt="screenshot" src="https://github.com/scottparry/RebootWP/assets/451109/8528c3c8-dcd5-4244-8e88-b5e7c601a4bf">
+![Image](https://github.com/scottparry/RebootWP/assets/451109/8528c3c8-dcd5-4244-8e88-b5e7c601a4bf)
 
 # RebootWP WordPress Block Theme  
 
