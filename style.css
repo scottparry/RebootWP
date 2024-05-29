@@ -118,7 +118,7 @@ a:focus {
 
 /* Make links more accessible */
 a:hover,
-.entry-content p > a:not(:where(header *, footer *)) {
+.entry-content a:not(:where(header *, footer *)) {
 	text-decoration: underline !important;
 }
 
