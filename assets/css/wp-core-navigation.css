@@ -35,13 +35,13 @@
 
 .wp-block-navigation__responsive-container.is-menu-open ul li {
     display: inline !important;
-    font-size: var(--wp--preset--font-size--xx-large);
+    font-size: var(--wp--preset--font-size--x-large);
     line-height: 110%;
     text-align: center;
 }
 
 .wp-block-navigation__responsive-container.is-menu-open ul li.has-x-small-font-size {
-    font-size: var(--wp--preset--font-size--large) !important;
+    font-size: var(--wp--preset--font-size--x-large) !important;
 }
 
 .wp-block-navigation__responsive-container.is-menu-open ul li a,
