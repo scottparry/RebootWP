@@ -14,6 +14,13 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 
 == Changelog ==
 
+= 1.2.2 - 30/05/24 =
+* Improve link targeting
+* New font (Hubot Sans)
+* Switching to using patterns for template parts to keep the codebase DRY
+* Renaming default header & footer patterns
+* Remove constrained layout type for easier user editing
+
 = 1.2.1 - 29/05/24 =
 * Increase mobile font size
 * Tweak padding on button
