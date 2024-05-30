@@ -2,7 +2,7 @@ RebootWP WordPress Block Theme
 
 Tested up to: 6.5  
 Requires PHP: 7.3  
-Version: 1.2.1  
+Version: 1.2.3  
 License: GNU General Public License v3 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,17 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
 
 == Changelog ==
+
+= 1.2.3 - 30/05/24 =
+* Add new header patterns with page title
+* Fix colour conflict
+* Create new style omni
+* Create new style twilight
+* Updates styles
+* Add body background style option
+* Add new simple block pattern galleries
+* Add new pattern categories
+* Update placeholder image path
 
 = 1.2.2 - 30/05/24 =
 * Improve link targeting
