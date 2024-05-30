@@ -58,7 +58,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":3230,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"color":{}}} -->
-<figure class="wp-block-image size-large"><img src="https://rebootwp.com/images/placeholder.webp" alt="" class="wp-image-3230" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large"><img src="https://rebootwp.com/assets/images/placeholder.webp" alt="" class="wp-image-3230" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
