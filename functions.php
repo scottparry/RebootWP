@@ -152,6 +152,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			'rebootwp/footers' => array(
 				'label' => esc_html__( 'Footers', 'rebootwp' ),
 			),
+			'rebootwp/gallery' => array(
+				'label' => esc_html__( 'Gallery', 'rebootwp' ),
+			),
 	        'rebootwp/headers' => array(
 				'label' => esc_html__( 'Headers', 'rebootwp' ),
 			),
@@ -166,6 +169,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 	        ),
 	        'rebootwp/posts' => array(
 				'label' => esc_html__( 'Posts', 'rebootwp' ),
+			),
+			'rebootwp/portfolio' => array(
+				'label' => esc_html__( 'Portfolio', 'rebootwp' ),
 			),
 			'rebootwp/pricing' => array(
 				'label' => esc_html__( 'Pricing', 'rebootwp' ),
