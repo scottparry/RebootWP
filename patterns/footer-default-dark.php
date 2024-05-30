@@ -12,7 +12,7 @@
  * Inserter: true
  */
 ?>
-<!-- wp:group {"tagName":"footer","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"primary","textColor":"white","layout":{"type":"constrained","contentSize":"1360px"}} -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"primary","textColor":"white","layout":{"type":"constrained","contentSize":"1360px"}} -->
 <footer class="wp-block-group has-white-color has-primary-background-color has-text-color has-background has-link-color"><!-- wp:spacer {"height":"75px"} -->
 <div style="height:75px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
