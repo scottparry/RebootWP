@@ -1,0 +1,115 @@
+{
+    "version": 2,
+    "title": "Omni",
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#f4f1ef",
+                    "name": "Body Background",
+                    "slug": "body-background"
+                },
+                {
+                    "color": "#402320",
+                    "name": "Primary",
+                    "slug": "primary"
+                },
+                {
+                    "color": "#F25A38",
+                    "name": "Primary Accent",
+                    "slug": "primary-accent"
+                },
+                {
+                    "color": "#8C6F65",
+                    "name": "Secondary",
+                    "slug": "secondary"
+                },
+                {
+                    "color": "#B2BFB0",
+                    "name": "Secondary Accent",
+                    "slug": "secondary-accent"
+                },
+                {
+                    "color": "#402320",
+                    "name": "Tertiary",
+                    "slug": "tertiary"
+                },
+                {
+                    "color": "#BF452A",
+                    "name": "Tertiary Accent",
+                    "slug": "tertiary-accent"
+                },
+                {
+                    "color": "#000000",
+                    "name": "Black",
+                    "slug": "black"
+                },
+                {
+                    "color": "rgba(0,0,0,0.75)",
+                    "name": "75% Black Opaque",
+                    "slug": "seventyfiveopaqueblack"
+                },
+                {
+                    "color": "rgba(0,0,0,0.5)",
+                    "name": "50% Black Opaque",
+                    "slug": "fiftyopaqueblack"
+                },
+                {
+                    "color": "rgba(0,0,0,0.25)",
+                    "name": "25% Black Opaque",
+                    "slug": "twentyfiveopaqueblack"
+                },
+                {
+                    "color": "rgba(0,0,0,0.10)",
+                    "name": "10% Black Opaque",
+                    "slug": "tenopaqueblack"
+                },
+                {
+                    "color": "rgba(0,0,0,0.05)",
+                    "name": "5% Black Opaque",
+                    "slug": "fiveopaqueblack"
+                },
+                {
+                    "color": "#ffffff",
+                    "name": "White",
+                    "slug": "white"
+                },
+                {
+                    "color": "rgba(255,255,255,0.75)",
+                    "name": "75% White Opaque",
+                    "slug": "seventyfiveopaquewhite"
+                },
+                {
+                    "color": "rgba(255,255,255,0.5)",
+                    "name": "50% White Opaque",
+                    "slug": "fiftyopaquewhite"
+                },
+                {
+                    "color": "rgba(255,255,255,0.25)",
+                    "name": "25% White Opaque",
+                    "slug": "twentyfiveopaquewhite"
+                },
+                {
+                    "color": "rgba(255,255,255,0.10)",
+                    "name": "10% White Opaque",
+                    "slug": "tenopaquewhite"
+                },
+                {
+                    "color": "rgba(255,255,255,0.05)",
+                    "name": "5% White Opaque",
+                    "slug": "fiveopaquewhite"
+                },
+                {
+                    "color": "#f6f7fa",
+                    "name": "Light Grey",
+                    "slug": "light-grey"
+                },
+                {
+                    "color": "transparent",
+                    "name": "Transparent",
+                    "slug": "transparent"
+                }
+            ]
+        }
+    }
+}
