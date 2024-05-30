@@ -113,12 +113,12 @@ input:-webkit-autofill
 a, 
 a:focus {
     transition: 150ms linear all; /* add some smoothness to hovers */
-    text-decoration: none !important;
+    text-decoration: none !important; /* remove underlines to better target below */
 }
 
 /* Make links more accessible */
 a:hover,
-.entry-content a:not(:where(header *, footer *)) {
+.entry-content p > a:not(:where(header *, footer *, button *, .wp-block-button *)) {
 	text-decoration: underline !important;
 }
 
