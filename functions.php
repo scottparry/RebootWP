@@ -83,7 +83,8 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			),
 			/* core/heading */
 			'core/heading' => array(
-		        'rebootwp-heading-gradient' => esc_html__( 'Gradient', 'rebootwp' ),
+		        'rebootwp-heading-gradient'    => esc_html__( 'Gradient', 'rebootwp' ),
+                'rebootwp-heading-text-shadow' => esc_html__( 'Text Shadow', 'rebootwp' ),
 			),
 			/* core/paragraph */
 			'core/paragraph' => array(

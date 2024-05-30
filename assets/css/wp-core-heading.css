@@ -6,3 +6,7 @@
     color: #f472b6;
     display: inline-block;
 }
+
+.is-style-rebootwp-heading-text-shadow {
+    text-shadow: 0 2px 1px rgba(0, 0, 0, 0.1);
+}
