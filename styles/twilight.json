@@ -5,11 +5,6 @@
         "color": {
             "palette": [
                 {
-                    "color": "#F2F4F9",
-                    "name": "Body Background",
-                    "slug": "body-background"
-                },
-                {
                     "color": "#141719",
                     "name": "Primary",
                     "slug": "primary"
@@ -108,6 +103,11 @@
                     "color": "transparent",
                     "name": "Transparent",
                     "slug": "transparent"
+                },
+                {
+                    "color": "#F2F4F9",
+                    "name": "Body Background",
+                    "slug": "body-background"
                 }
             ]
         }
