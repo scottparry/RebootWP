@@ -256,7 +256,7 @@
 					"slug": "fiveopaqueblack"
 				},
 				{
-					"color": "#fff",
+					"color": "#fffff",
 					"name": "White",
 					"slug": "white"
 				},
@@ -296,7 +296,7 @@
 					"slug": "transparent"
 				},
 				{
-                    "color": "#ffffff",
+                    "color": "#fff",
                     "name": "Body Background",
                     "slug": "body-background"
                 }
