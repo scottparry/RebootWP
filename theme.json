@@ -323,6 +323,38 @@
 				{
 					"fontFace": [
 						{
+							"fontFamily": "Hubot Sans",
+							"fontStretch": "100%",
+							"fontStyle": "normal",
+							"fontWeight": "200 900",
+							"src": [
+								"file:./assets/fonts/HubotSans_slnt,wdth,wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Hubot Sans\", sans-serif",
+					"name": "Hubot",
+					"slug": "hubot"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Inter",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "200 900",
+							"src": [
+								"file:./assets/fonts/Inter-VariableFont_slnt,wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Inter\", sans-serif",
+					"name": "Inter",
+					"slug": "inter"
+				},
+				{
+					"fontFace": [
+						{
 							"fontFamily": "Lexend Deca",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
@@ -351,22 +383,6 @@
 					"fontFamily": "\"Mona Sans\", sans-serif",
 					"name": "Mona",
 					"slug": "mona"
-				},
-				{
-					"fontFace": [
-						{
-							"fontFamily": "Inter",
-							"fontStretch": "normal",
-							"fontStyle": "normal",
-							"fontWeight": "200 900",
-							"src": [
-								"file:./assets/fonts/Inter-VariableFont_slnt,wght.woff2"
-							]
-						}
-					],
-					"fontFamily": "\"Inter\", sans-serif",
-					"name": "Inter",
-					"slug": "inter"
 				}
 			],
 			"fontSizes": [

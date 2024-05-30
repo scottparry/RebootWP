@@ -187,6 +187,7 @@ dark-logo.webp, light-logo.webp, hero.webp, block-editor-hero.webp - created by 
 
 **Fonts:**  
 DM Sans font SIL Open Font License 1.1: https://github.com/googlefonts/dm-fonts?tab=readme-ov-file  
+Hubot Sans font SIL Open Font License 1.1: https://github.com/github/hubot-sans/blob/main/LICENSE    
 Inter font SIL Open Font License 1.1: https://github.com/rsms/inter/blob/master/LICENSE.txt  
 Lexend font SIL Open Font License 1.1: https://github.com/googlefonts/lexend?tab=OFL-1.1-1-ov-file  
 Mona font SIL Open Font License 1.1: https://github.com/github/mona-sans/blob/main/LICENSE  
