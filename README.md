@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.2.3  
+**Version:** 1.2.4  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,13 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.2.4 - 1/06/24**
+- Update templates
+- Update functions
+- Move Me pattern to Cards
+- Add 4 new styles
+- Add text shadow option to headings
 
 **1.2.3 - 30/05/24**
 - Add new header patterns with page title
