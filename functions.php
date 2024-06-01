@@ -127,6 +127,36 @@ if ( ! function_exists( 'rebootwp_enqueue_custom_block_styles' ) ) :
 	add_action( 'init', 'rebootwp_enqueue_custom_block_styles' );
 endif;
 /**
+ * Register pro patterns in sub-directory
+ * directory for organisational purposes.
+ *
+ * @link https://developer.wordpress.org/themes/patterns/registering-patterns/
+ *
+ */
+if ( ! function_exists( 'rebootwp_register_pro_block_patterns' ) ) :
+	function rebootwp_register_pro_block_patterns() {
+	    // define the directory containing the patterns.
+	    $patterns_directory = get_template_directory() . '/patterns/pro/';
+
+	    // check the directory exists.
+	    if ( ! is_dir( $patterns_directory ) ) {
+	        return;
+	    }
+
+	    // get all files in the directory.
+	    $patterns = glob( $patterns_directory . '/*.php' );
+
+	    // iterate through each file and include it to register the pattern.
+	    foreach ( $patterns as $pattern ) {
+	        // ensure the file exists before including.
+	        if ( file_exists( $pattern ) ) {
+	            include $pattern;
+	        }
+	    }
+	}
+	add_action( 'init', 'rebootwp_register_pro_block_patterns' );
+endif;
+/**
  * Register block pattern categories.
  *
  * @link https://developer.wordpress.org/reference/functions/register_block_pattern_category/
@@ -176,6 +206,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			),
 			'rebootwp/pricing' => array(
 				'label' => esc_html__( 'Pricing', 'rebootwp' ),
+			),
+			'rebootwp/pro' => array(
+				'label' => esc_html__( 'Pro', 'rebootwp' ),
 			),
 			'rebootwp/team' => array(
 				'label' => esc_html__( 'Team', 'rebootwp' ),
