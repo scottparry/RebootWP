@@ -1,10 +1,10 @@
 <?php
 /**
- * Title: Me Page
- * Slug: page-me
- * Description: Simple Me Page to share your information and socials
- * Categories: rebootwp/pages
- * Keywords: pages, about, me, links, linktree, layout, template, block
+ * Title: Card Me
+ * Slug: card-me
+ * Description: Simple Me Card to share your information and socials
+ * Categories: rebootwp/cards
+ * Keywords: cards, about, me, links, linktree, layout, template, block
  * Viewport Width: 1360
  * Template Types:
  * Block Types:
