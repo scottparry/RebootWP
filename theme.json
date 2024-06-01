@@ -312,6 +312,22 @@
 				{
 					"fontFace": [
 						{
+							"fontFamily": "Crimson Pro",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "200 900",
+							"src": [
+								"file:./assets/fonts/CrimsonPro-VariableFont_wght.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Crimson Pro\", sans-serif",
+					"name": "Crimson Pro",
+					"slug": "crimson-pro"
+				},
+				{
+					"fontFace": [
+						{
 							"fontFamily": "DM Sans",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
