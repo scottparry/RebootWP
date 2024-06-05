@@ -1,47 +1,21 @@
 {
 	"$schema": "https://schemas.wp.org/wp/6.5/theme.json",
-	"customTemplates": [
+	"version": 2,
+	"templateParts": [
 		{
-			"name": "page-default",
-			"postTypes": [
-				"page"
-			],
-			"title": "Default Page Template"
+			"area": "header",
+			"name": "header",
+			"title": "Header"
 		},
 		{
-			"name": "page-fullwidth",
-			"postTypes": [
-				"page"
-			],
-			"title": "Fullwidth Page (No Title, No Spacing)"
+			"area": "footer",
+			"name": "footer",
+			"title": "Footer"
 		},
 		{
-			"name": "page-narrow",
-			"postTypes": [
-				"page"
-			],
-			"title": "Narrow Page Template"
-		},
-		{
-			"name": "page-with-sidebar",
-			"postTypes": [
-				"page"
-			],
-			"title": "Page with Sidebar"
-		},
-		{
-			"name": "page-blank",
-			"postTypes": [
-				"page"
-			],
-			"title": "Blank Page Template"
-		},
-		{
-			"name": "posts-with-sidebar",
-			"postTypes": [
-				"page"
-			],
-			"title": "Posts with Sidebar"
+			"area": "sidebar",
+			"name": "sidebar",
+			"title": "Sidebar"
 		}
 	],
 	"settings": {
@@ -523,23 +497,5 @@
 			"fontSize": "var(--wp--preset--font-size--small)",
 			"textDecoration": "none"
 		}
-	},
-	"templateParts": [
-		{
-			"area": "header",
-			"name": "header",
-			"title": "Header"
-		},
-		{
-			"area": "footer",
-			"name": "footer",
-			"title": "Footer"
-		},
-		{
-			"area": "sidebar",
-			"name": "sidebar",
-			"title": "Sidebar"
-		}
-	],
-	"version": 2
+	}
 }
