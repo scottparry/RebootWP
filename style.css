@@ -423,6 +423,14 @@ a.link.effect {
     float: left;
 }
 
+.rebootwp-not-mobile {
+    visibility: hidden;
+}
+
+.rebootwp-not-desktop {
+    visibility: visible;
+}
+
 /* Media Queries: Tablet (portrait) */
 @media only screen and (min-width: 767px) {
 
@@ -433,10 +441,19 @@ a.link.effect {
 }
 /* Media Queries: Regular Desktops */
 @media only screen and (min-width: 1278px) {
+    .rebootwp-not-mobile {
+        visibility: visible;
+    }
+
+    .rebootwp-not-desktop {
+        visibility: hidden;
+    }
 }
 /* Media Queries: Medium Desktops */
 @media only screen and (min-width: 1678px) {
+
 }
 /* Media Queries: Large Desktops */
 @media only screen and (min-width: 1918px) {
+
 }
