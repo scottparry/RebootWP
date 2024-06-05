@@ -2,6 +2,6 @@
 	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.05);
 }
 
-.wp-block-post-featured-image.is-style-rebootwp-circle-post-featured-image img {
+.wp-block-post-featured-image.is-style-rebootwp-post-featured-image-circle img {
 	border-radius: 100% !important;
 }
