@@ -134,7 +134,7 @@ if ( ! function_exists( 'rebootwp_register_block_styles' ) ) :
 			/* core/post-featured-image */
 			'core/post-featured-image' => array(
 		        'rebootwp-post-featured-image-box-shadow' => esc_html__( 'Box Shadow', 'rebootwp' ),
-		        'rebootwp-circle-post-featured-image'     => esc_html__( 'Circle', 'rebootwp' ),
+		        'rebootwp-post-featured-image-circle'     => esc_html__( 'Circle', 'rebootwp' ),
 			),
 			/* core/site-title */
 			'core/site-title' => array(
