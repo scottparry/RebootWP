@@ -51,6 +51,18 @@ if ( ! function_exists( 'rebootwp_style' ) ) :
 	add_action( 'enqueue_block_assets', 'rebootwp_style' );
 endif;
 /**
+ * Enqueue scripts.
+ *
+ * @link https://developer.wordpress.org/reference/functions/wp_enqueue_script/
+ */
+if ( ! function_exists( 'rebootwp_scripts' ) ) :
+	function rebootwp_scripts() {
+		wp_enqueue_script( 'jquery-cookie', get_parent_theme_file_uri( '/assets/js/jquery.cookie.min.js' ), array( 'jquery' ), wp_get_theme()->get('Version'), true );
+		wp_enqueue_script( 'rebootwp', get_parent_theme_file_uri( '/assets/js/rebootwp.js' ), array( 'jquery' ), wp_get_theme()->get('Version'), true );
+	}
+	add_action( 'wp_enqueue_scripts', 'rebootwp_scripts' );
+endif;
+/**
  * Add custom templates via filter instead of theme.json
  * so we can add useful descriptions for the user.
  *
@@ -226,6 +238,9 @@ if ( ! function_exists( 'rebootwp_pattern_categories' ) ) :
 			),
 			'rebootwp/gallery' => array(
 				'label' => esc_html__( 'Gallery', 'rebootwp' ),
+			),
+			'rebootwp/gdpr' => array(
+				'label' => esc_html__( 'GDPR', 'rebootwp' ),
 			),
 	        'rebootwp/headers' => array(
 				'label' => esc_html__( 'Headers', 'rebootwp' ),
