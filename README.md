@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.2.6  
+**Version:** 1.2.7  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,12 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.2.7 - 7/06/24**
+- Add GDPR patterns
+- Add responsive CSS helper class
+- Code tidy
+- Update wp-core-post-featured-image.css
 
 **1.2.6 - 5/06/24**
 - Move templates from customTemplates to filter to add useful descriptions for the user
