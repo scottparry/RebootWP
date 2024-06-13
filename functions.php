@@ -63,47 +63,6 @@ if ( ! function_exists( 'rebootwp_scripts' ) ) :
 	add_action( 'wp_enqueue_scripts', 'rebootwp_scripts' );
 endif;
 /**
- * Add custom templates via filter instead of theme.json
- * so we can add useful descriptions for the user.
- *
- * @param array $templates[] The default template types.
- *
- * @return array The modified template types.
- * 
- * @link https://github.com/WordPress/wordpress-develop/blob/ca0260b5beaab6666e8f9fe0a9bff0ca8f6ac228/src/wp-includes/block-template-utils.php#L109-L184
- */
-if ( ! function_exists( 'rebootwp_custom_templates' ) ) :
-	function rebootwp_custom_templates( $templates ) {
-		$templates['page-blank'] = [
-			'title'       => esc_html__( 'Page: Blank', 'rebootwp' ),
-			'description' => esc_html__( 'Displays a static page with the content block only. Perfect for creating bespoke layouts when you need complete control.', 'rebootwp' ),
-		];
-
-		$templates['page-fullwidth'] = [
-			'title'       => esc_html__( 'Page: Full Width', 'rebootwp' ),
-			'description' => esc_html__( 'Displays a static page full width with no default title or spacing.', 'rebootwp' ),
-		];
-
-		$templates['page-narrow'] = [
-			'title'       => esc_html__( 'Page: Narrow', 'rebootwp' ),
-			'description' => esc_html__( 'Displays a static page with no default title and content in a narrow wrapper.', 'rebootwp' ),
-		];
-
-		$templates['page-with-sidebar'] = [
-			'title'       => esc_html__( 'Page: Sidebar', 'rebootwp' ),
-			'description' => esc_html__( 'Displays a static page with a sidebar.', 'rebootwp' ),
-		];
-
-		$templates['posts-with-sidebar'] = [
-			'title'       => esc_html__( 'Posts with Sidebar', 'rebootwp' ),
-			'description' => esc_html__( 'Displays all posts on your website with a sidebar.', 'rebootwp' ),
-		];
-
-		return $templates;
-	}
-	add_filter( 'default_template_types', 'rebootwp_custom_templates', 10, 1 );
-endif;
-/**
  * Register custom block styles.
  *
  * @link https://developer.wordpress.org/reference/functions/register_block_style/
