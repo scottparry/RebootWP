@@ -22,6 +22,9 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 
 ### Changelog
 
+**1.2.8 - 13/06/24**
+- Template hot fix
+
 **1.2.7 - 7/06/24**
 - Add GDPR patterns
 - Add responsive CSS helper class
