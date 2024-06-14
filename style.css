@@ -157,10 +157,21 @@ input[type="button"],
 input[type="email"],
 input[type="search"],
 input[type="submit"],
+input[type="tel"],
 input[type="text"],
 textarea {
-	appearance: none;
-	transition: 150ms linear all; /* add some smoothness to hovers */
+    appearance: none;
+    transition: 150ms linear all; /* add some smoothness to hovers */
+    color: var(--wp--preset--color--secondary) !important;
+    border-radius: 5px;
+    border: solid 1px var(--wp--preset--color--tenopaqueblack);
+    padding: .5em 1em;
+    font-size: var(--wp--preset--font-size--small);
+    width: 100%;
+}
+
+input[type="submit"] {
+    cursor: pointer;
 }
 
 input[type="submit"]:hover {
