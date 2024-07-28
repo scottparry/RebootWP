@@ -442,7 +442,7 @@
 					"slug": "medium"
 				},
 				{
-					"size": "clamp(1.25rem, 2vw, 1.5rem)",
+					"size": "clamp(1.5rem, 2vw, 1.7rem)",
 					"slug": "large"
 				},
 				{
