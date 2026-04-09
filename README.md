@@ -2,8 +2,6 @@
 
 # RebootWP WordPress Block Theme  
 
-### [Live Demo](https://www.rebootwp.com)    
-
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
 **Version:** 1.2.9  
