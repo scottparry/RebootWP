@@ -2,7 +2,7 @@ RebootWP WordPress Block Theme
 
 Tested up to: 6.5  
 Requires PHP: 7.3  
-Version: 1.2.9  
+Version: 1.3.0  
 License: GNU General Public License v3 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +13,9 @@ Design without ever leaving your browser with the power of RebootWP & WordPress 
 RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allow you to create pages and layouts quickly and easily.
 
 == Changelog ==
+
+= 1.3.0 - 07/06/26 =
+* Change Theme URI
 
 = 1.2.9 - 28/07/24 =
 * Tweak large font size
