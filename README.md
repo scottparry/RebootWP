@@ -2,9 +2,11 @@
 
 # RebootWP WordPress Block Theme  
 
+### [Live Demo](https://www.rebootwp.com)    
+
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.3.0  
+**Version:** 1.3.1  
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +21,9 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.3.1 - 07/06/26**
+- Update README
 
 **1.3.0 - 07/06/26**
 - Change Theme URI
