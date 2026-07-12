@@ -449,16 +449,58 @@ a.link.effect {
     visibility: visible;
 }
 
-.visually-hidden {
-    position: absolute;
-    width: 1px;
+/* Floats */
+.fl {
+    float: left !important;
+}
+
+.fr {
+    float: right !important;
+}
+
+.fn {
+    float: none !important;
+}
+
+/* Hide from screenreaders and browsers. */
+.hidden,
+.hidden
+{
+    display: none!important;
+    visibility: hidden;
+}
+
+/* Hide only visually, but have it available for screenreaders */
+.visually-hidden,
+.visually-hidden
+{
+    border: 0;
+    clip: rect(0 0 0 0);
     height: 1px;
-    padding: 0;
     margin: -1px;
     overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard. */
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus
+{
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible,
+.invisible
+{
+    visibility: hidden;
 }
 
 /* Contact Form 7 */
