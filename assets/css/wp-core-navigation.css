@@ -1,3 +1,27 @@
+header.wp-block-group > div {
+    flex: 1;
+}
+
+header .wp-block-site-logo {
+    justify-content: center;
+    display: flex;
+}
+
+.wp-block-navigation__responsive-container a {
+    white-space: nowrap;
+}
+
+.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation-item  {
+    text-align: center !important;
+    font-size: 2em !important;
+    font-weight: 400;
+}
+
+.wp-block-navigation__responsive-container-open {
+    float: left !important;
+    margin-left: -20px !important;
+}
+
 /* Sub-menu Navigation */
 .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
     background: none !important;
@@ -13,7 +37,7 @@
     padding: 4px 3px 3px 3px;
 }
 
-.current-menu-item a {
+.current-menu-item a:not(:visited) {
     color: var(--wp--preset--color--primary-accent) !important;
 }
 
