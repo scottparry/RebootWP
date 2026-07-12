@@ -6,7 +6,7 @@
 
 **Tested up to:** 6.5  
 **Requires PHP:** 7.3  
-**Version:** 1.3.2
+**Version:** 1.3.3
 **License:** GNU General Public License v3 or later  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,6 +21,9 @@ RebootWP ships with thoughtfully designed Patterns, Templates & Styles that allo
 ---
 
 ### Changelog
+
+**1.3.3 - 12/07/26**
+- Fix broken mobile navigation background colour.
 
 **1.3.2 - 12/07/26**
 - Added Woo styling and removed duplicates.

@@ -43,7 +43,7 @@ header .wp-block-site-logo {
 
 /* Mobile Navigation */
 .wp-block-navigation:not(.has-background) .wp-block-navigation__responsive-container.is-menu-open {
-    background-color: var(--wp--preset--color--primary-accent);
+    background-color: var(--wp--preset--color--primary-accent) !important;
     display: grid;
     place-items: center;
 }
