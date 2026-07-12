@@ -461,6 +461,24 @@ a.link.effect {
     border: 0;
 }
 
+/* Contact Form 7 */
+.wpcf7-textarea {
+    border: solid 1px var(--wp--preset--color--tenopaqueblack) !important;
+}
+
+.wpcf7 input[type="submit"] {
+    background: #111111 !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    appearance: none !important;
+    transition: 150ms linear all; /* add some smoothness to hovers */
+    border-radius: 3px !important;
+    border: solid 1px var(--wp--preset--color--tenopaqueblack) !important;
+    padding: .5em 1em !important;
+    font-size: var(--wp--preset--font-size--small) !important;
+    font-family: var(--wp--preset--font-family--mona) !important;
+}
+
 /* Media Queries: Tablet (portrait) */
 @media only screen and (min-width: 767px) {
 
